@@ -1,0 +1,15 @@
+Useful links:
+
+wikipedia:
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+https://en.wikipedia.org/wiki/Life-like_cellular_automaton
+https://en.wikipedia.org/wiki/Hashlife
+https://en.wikipedia.org/wiki/Cellular_automaton
+
+Motivational videos:
+thrilling (and a bit scary) patterns of Conway's Game of Life: https://www.youtube.com/watch?v=C2vgICfQawE
+big picture of the field and building a computer in Conway's Game of Life: https://www.youtube.com/watch?v=Kk2MH9O4pXY
+John Conway about his Game of Life: https://www.youtube.com/watch?v=R9Plq-D1gEk
+
+SFML:
+https://www.sfml-dev.org/download/sfml/2.5.1/
