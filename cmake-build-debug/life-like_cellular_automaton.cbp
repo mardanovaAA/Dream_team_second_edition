@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="life-like_cellular_automaton"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\SFML-2.5.1\;CMake Files\..\SFML-2.5.1\lib\;CMake Files\..\SFML-2.5.1\lib\cmake\;CMake Files\..\SFML-2.5.1\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="life-like_cellular_automaton">
+				<Option output="D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/life-like_cellular_automaton.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Me/MIPT/life-like_cellular_automaton/usables"/>
+					<Add directory="D:/Me/MIPT/life-like_cellular_automaton/headers"/>
+					<Add directory="/usr/include"/>
+					<Add directory="D:/Me/MIPT/SFML-2.5.1/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 life-like_cellular_automaton"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="life-like_cellular_automaton/fast">
+				<Option output="D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/life-like_cellular_automaton.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Me/MIPT/life-like_cellular_automaton/usables"/>
+					<Add directory="D:/Me/MIPT/life-like_cellular_automaton/headers"/>
+					<Add directory="/usr/include"/>
+					<Add directory="D:/Me/MIPT/SFML-2.5.1/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 life-like_cellular_automaton/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/headers/App.h">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/headers/Automaton.h">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/headers/AutomatonView.h">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/headers/Cell.h">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/headers/Rules.h">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/main.cpp">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/src/App.cpp">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/src/Automaton.cpp">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/src/AutomatonView.cpp">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/src/Cell.cpp">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/src/Rules.cpp">
+			<Option target="life-like_cellular_automaton"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/../SFML-2.5.1/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/../SFML-2.5.1/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/../SFML-2.5.1/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/../SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/../SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="D:/Me/MIPT/life-like_cellular_automaton/../SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
