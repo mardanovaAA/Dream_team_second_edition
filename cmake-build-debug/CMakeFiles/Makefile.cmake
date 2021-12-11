@@ -33,17 +33,17 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows.cmake"
   "C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/Platform/WindowsPaths.cmake"
   "C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.17/Modules/ProcessorCount.cmake"
+  "../CMakeLists.txt"
+  "CMakeFiles/3.17.5/CMakeCCompiler.cmake"
+  "CMakeFiles/3.17.5/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.17.5/CMakeRCCompiler.cmake"
+  "CMakeFiles/3.17.5/CMakeSystem.cmake"
   "D:/Me/MIPT/SFML-2.5.1/lib/cmake/SFML/SFMLConfig.cmake"
   "D:/Me/MIPT/SFML-2.5.1/lib/cmake/SFML/SFMLConfigDependencies.cmake"
   "D:/Me/MIPT/SFML-2.5.1/lib/cmake/SFML/SFMLConfigVersion.cmake"
   "D:/Me/MIPT/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-debug.cmake"
   "D:/Me/MIPT/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets-release.cmake"
   "D:/Me/MIPT/SFML-2.5.1/lib/cmake/SFML/SFMLSharedTargets.cmake"
-  "../CMakeLists.txt"
-  "CMakeFiles/3.17.5/CMakeCCompiler.cmake"
-  "CMakeFiles/3.17.5/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.17.5/CMakeRCCompiler.cmake"
-  "CMakeFiles/3.17.5/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:

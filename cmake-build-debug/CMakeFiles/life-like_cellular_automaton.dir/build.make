@@ -62,10 +62,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Me\MIPT\life-like_cellular_automaton
+CMAKE_SOURCE_DIR = D:\Me\MIPT\Dream_team_second_edition
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug
+CMAKE_BINARY_DIR = D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/life-like_cellular_automaton.dir/depend.make
@@ -79,86 +79,86 @@ include CMakeFiles/life-like_cellular_automaton.dir/flags.make
 CMakeFiles/life-like_cellular_automaton.dir/main.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/flags.make
 CMakeFiles/life-like_cellular_automaton.dir/main.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/includes_CXX.rsp
 CMakeFiles/life-like_cellular_automaton.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/main.cpp.obj"
-	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\main.cpp.obj -c D:\Me\MIPT\life-like_cellular_automaton\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/main.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\main.cpp.obj -c D:\Me\MIPT\Dream_team_second_edition\main.cpp
 
 CMakeFiles/life-like_cellular_automaton.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/life-like_cellular_automaton.dir/main.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\life-like_cellular_automaton\main.cpp > CMakeFiles\life-like_cellular_automaton.dir\main.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\Dream_team_second_edition\main.cpp > CMakeFiles\life-like_cellular_automaton.dir\main.cpp.i
 
 CMakeFiles/life-like_cellular_automaton.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/life-like_cellular_automaton.dir/main.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\life-like_cellular_automaton\main.cpp -o CMakeFiles\life-like_cellular_automaton.dir\main.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\Dream_team_second_edition\main.cpp -o CMakeFiles\life-like_cellular_automaton.dir\main.cpp.s
 
 CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/flags.make
 CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/includes_CXX.rsp
 CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.obj: ../src/App.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.obj"
-	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\src\App.cpp.obj -c D:\Me\MIPT\life-like_cellular_automaton\src\App.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\src\App.cpp.obj -c D:\Me\MIPT\Dream_team_second_edition\src\App.cpp
 
 CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\life-like_cellular_automaton\src\App.cpp > CMakeFiles\life-like_cellular_automaton.dir\src\App.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\Dream_team_second_edition\src\App.cpp > CMakeFiles\life-like_cellular_automaton.dir\src\App.cpp.i
 
 CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\life-like_cellular_automaton\src\App.cpp -o CMakeFiles\life-like_cellular_automaton.dir\src\App.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\Dream_team_second_edition\src\App.cpp -o CMakeFiles\life-like_cellular_automaton.dir\src\App.cpp.s
 
 CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/flags.make
 CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/includes_CXX.rsp
 CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.obj: ../src/Rules.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.obj"
-	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\src\Rules.cpp.obj -c D:\Me\MIPT\life-like_cellular_automaton\src\Rules.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\src\Rules.cpp.obj -c D:\Me\MIPT\Dream_team_second_edition\src\Rules.cpp
 
 CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\life-like_cellular_automaton\src\Rules.cpp > CMakeFiles\life-like_cellular_automaton.dir\src\Rules.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\Dream_team_second_edition\src\Rules.cpp > CMakeFiles\life-like_cellular_automaton.dir\src\Rules.cpp.i
 
 CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\life-like_cellular_automaton\src\Rules.cpp -o CMakeFiles\life-like_cellular_automaton.dir\src\Rules.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\Dream_team_second_edition\src\Rules.cpp -o CMakeFiles\life-like_cellular_automaton.dir\src\Rules.cpp.s
 
 CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/flags.make
 CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/includes_CXX.rsp
 CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.obj: ../src/Automaton.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.obj"
-	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\src\Automaton.cpp.obj -c D:\Me\MIPT\life-like_cellular_automaton\src\Automaton.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\src\Automaton.cpp.obj -c D:\Me\MIPT\Dream_team_second_edition\src\Automaton.cpp
 
 CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\life-like_cellular_automaton\src\Automaton.cpp > CMakeFiles\life-like_cellular_automaton.dir\src\Automaton.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\Dream_team_second_edition\src\Automaton.cpp > CMakeFiles\life-like_cellular_automaton.dir\src\Automaton.cpp.i
 
 CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\life-like_cellular_automaton\src\Automaton.cpp -o CMakeFiles\life-like_cellular_automaton.dir\src\Automaton.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\Dream_team_second_edition\src\Automaton.cpp -o CMakeFiles\life-like_cellular_automaton.dir\src\Automaton.cpp.s
 
 CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/flags.make
 CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/includes_CXX.rsp
 CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.obj: ../src/AutomatonView.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.obj"
-	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\src\AutomatonView.cpp.obj -c D:\Me\MIPT\life-like_cellular_automaton\src\AutomatonView.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\src\AutomatonView.cpp.obj -c D:\Me\MIPT\Dream_team_second_edition\src\AutomatonView.cpp
 
 CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\life-like_cellular_automaton\src\AutomatonView.cpp > CMakeFiles\life-like_cellular_automaton.dir\src\AutomatonView.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\Dream_team_second_edition\src\AutomatonView.cpp > CMakeFiles\life-like_cellular_automaton.dir\src\AutomatonView.cpp.i
 
 CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\life-like_cellular_automaton\src\AutomatonView.cpp -o CMakeFiles\life-like_cellular_automaton.dir\src\AutomatonView.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\Dream_team_second_edition\src\AutomatonView.cpp -o CMakeFiles\life-like_cellular_automaton.dir\src\AutomatonView.cpp.s
 
 CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/flags.make
 CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.obj: CMakeFiles/life-like_cellular_automaton.dir/includes_CXX.rsp
 CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.obj: ../src/Cell.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.obj"
-	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\src\Cell.cpp.obj -c D:\Me\MIPT\life-like_cellular_automaton\src\Cell.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.obj"
+	C:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\life-like_cellular_automaton.dir\src\Cell.cpp.obj -c D:\Me\MIPT\Dream_team_second_edition\src\Cell.cpp
 
 CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.i"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\life-like_cellular_automaton\src\Cell.cpp > CMakeFiles\life-like_cellular_automaton.dir\src\Cell.cpp.i
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Me\MIPT\Dream_team_second_edition\src\Cell.cpp > CMakeFiles\life-like_cellular_automaton.dir\src\Cell.cpp.i
 
 CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.s"
-	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\life-like_cellular_automaton\src\Cell.cpp -o CMakeFiles\life-like_cellular_automaton.dir\src\Cell.cpp.s
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Me\MIPT\Dream_team_second_edition\src\Cell.cpp -o CMakeFiles\life-like_cellular_automaton.dir\src\Cell.cpp.s
 
 # Object files for target life-like_cellular_automaton
 life__like_cellular_automaton_OBJECTS = \
@@ -186,7 +186,7 @@ life-like_cellular_automaton.exe: D:/Me/MIPT/SFML-2.5.1/lib/libsfml-system-d.a
 life-like_cellular_automaton.exe: CMakeFiles/life-like_cellular_automaton.dir/linklibs.rsp
 life-like_cellular_automaton.exe: CMakeFiles/life-like_cellular_automaton.dir/objects1.rsp
 life-like_cellular_automaton.exe: CMakeFiles/life-like_cellular_automaton.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable life-like_cellular_automaton.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable life-like_cellular_automaton.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\life-like_cellular_automaton.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -199,6 +199,6 @@ CMakeFiles/life-like_cellular_automaton.dir/clean:
 .PHONY : CMakeFiles/life-like_cellular_automaton.dir/clean
 
 CMakeFiles/life-like_cellular_automaton.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Me\MIPT\life-like_cellular_automaton D:\Me\MIPT\life-like_cellular_automaton D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug D:\Me\MIPT\life-like_cellular_automaton\cmake-build-debug\CMakeFiles\life-like_cellular_automaton.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Me\MIPT\Dream_team_second_edition D:\Me\MIPT\Dream_team_second_edition D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug D:\Me\MIPT\Dream_team_second_edition\cmake-build-debug\CMakeFiles\life-like_cellular_automaton.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/life-like_cellular_automaton.dir/depend
 

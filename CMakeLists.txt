@@ -20,7 +20,7 @@ add_executable(life-like_cellular_automaton
 
 # include SFML
 
-include_directories(headers /usr/include D:/Me/MIPT/Dream_team_second_edition/SFML-2.5.1/include)
+include_directories(headers /usr/include D:/Me/MIPT/SFML-2.5.1/include)
 
 if (WIN32)
 set(SFML_DIR ../SFML-2.5.1/lib/cmake/SFML)

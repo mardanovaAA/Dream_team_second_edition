@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Me/MIPT/life-like_cellular_automaton/main.cpp" "D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/main.cpp.obj"
-  "D:/Me/MIPT/life-like_cellular_automaton/src/App.cpp" "D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.obj"
-  "D:/Me/MIPT/life-like_cellular_automaton/src/Automaton.cpp" "D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.obj"
-  "D:/Me/MIPT/life-like_cellular_automaton/src/AutomatonView.cpp" "D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.obj"
-  "D:/Me/MIPT/life-like_cellular_automaton/src/Cell.cpp" "D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.obj"
-  "D:/Me/MIPT/life-like_cellular_automaton/src/Rules.cpp" "D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.obj"
+  "D:/Me/MIPT/Dream_team_second_edition/main.cpp" "D:/Me/MIPT/Dream_team_second_edition/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/main.cpp.obj"
+  "D:/Me/MIPT/Dream_team_second_edition/src/App.cpp" "D:/Me/MIPT/Dream_team_second_edition/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/src/App.cpp.obj"
+  "D:/Me/MIPT/Dream_team_second_edition/src/Automaton.cpp" "D:/Me/MIPT/Dream_team_second_edition/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/src/Automaton.cpp.obj"
+  "D:/Me/MIPT/Dream_team_second_edition/src/AutomatonView.cpp" "D:/Me/MIPT/Dream_team_second_edition/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/src/AutomatonView.cpp.obj"
+  "D:/Me/MIPT/Dream_team_second_edition/src/Cell.cpp" "D:/Me/MIPT/Dream_team_second_edition/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/src/Cell.cpp.obj"
+  "D:/Me/MIPT/Dream_team_second_edition/src/Rules.cpp" "D:/Me/MIPT/Dream_team_second_edition/cmake-build-debug/CMakeFiles/life-like_cellular_automaton.dir/src/Rules.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

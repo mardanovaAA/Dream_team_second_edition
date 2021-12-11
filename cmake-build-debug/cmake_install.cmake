@@ -1,8 +1,8 @@
-# Install script for directory: D:/Me/MIPT/life-like_cellular_automaton
+# Install script for directory: D:/Me/MIPT/Dream_team_second_edition
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/life_like_cellular_automaton")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/life-like_cellular_automaton")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Me/MIPT/Dream_team_second_edition/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

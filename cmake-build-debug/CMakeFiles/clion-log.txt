@@ -1,5 +1,5 @@
-"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Me\MIPT\life-like_cellular_automaton
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Me\MIPT\Dream_team_second_edition
 -- Found SFML 2.5.1 in D:/Me/MIPT/SFML-2.5.1/lib/cmake/SFML
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/Me/MIPT/life-like_cellular_automaton/cmake-build-debug
+-- Build files have been written to: D:/Me/MIPT/Dream_team_second_edition/cmake-build-debug
